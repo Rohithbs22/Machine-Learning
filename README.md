@@ -1,4 +1,4 @@
-Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. 
+Repository containing portfolio of data science projects completed for academic and self learning purposes. 
 
 They are presented in the form of Jupyter notebooks.
 
